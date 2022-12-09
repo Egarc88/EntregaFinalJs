@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "nombre": "Puyazo",
+        "precio": 45,
+        "imagen": "imagenes/puyazo-c.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Lomito",
+        "precio": 50,
+        "imagen": "imagenes/lomo-res.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "T-Bone ",
+        "precio": 120,
+        "imagen": "imagenes/t-bone.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Chuleta",
+        "precio": 15,
+        "imagen": "imagenes/chuletaahumada.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Costilla",
+        "precio": 25,
+        "imagen": "imagenes/costillar-crudowebp.webp"
+    },
+    {
+        "id":6,
+        "nombre": "Solomito",
+        "precio": 25,
+        "imagen": "imagenes/solomillo.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Camaron",
+        "precio": 50,
+        "imagen": "imagenes/camarones.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Salmon",
+        "precio": 45,
+        "imagen": "imagenes/Salmon.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "pulpo",
+        "precio": 25,
+        "imagen": "imagenes/pulpo.webp"
+    }
+]

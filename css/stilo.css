@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=Rubik+Dirt&family=Titan+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Francois+One&display=swap");
+body {
+  font-family: "Quicksand", sans-serif;
+  background-image: url(../Imagenes/); }
+
+h1 {
+  font-family: 'Rubik Dirt', cursive;
+  margin-bottom: 1.6em; }
+
+h2 {
+  font-family: 'Titan One', cursive; }
+
+h3 {
+  font-family: "Noto Serif", serif; }
+
+h4 {
+  font-family: "Noto Serif", serif; }
+
+h5 {
+  font-family: "Noto Serif", serif; }
+
+h6 {
+  font-family: "Noto Serif", serif; }
+
+p {
+  margin-bottom: 1.6em;
+  font-family: 'Francois One', sans-serif; }
+
+
+.footer {
+    border: 3px black solid;
+    text-align: center;
+    border: 5px black solid;
+    background-color: black;
+    color: white; }
+  
+  .iconify {
+    font-size: 4rem;
+    color: #f4991a; }
+.container {
+    width:250px;
+    margin: 5px;
+    
+}
+.container {
+    width:250px;
+    margin: 5px;
+    
+    
+    
+}
+nav {
+    padding: 0 40px;
+    background-color: #f4991a;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    align-items: center; }
+    nav ul li {
+      display: inline-block;
+      font-size: 1.125rem;
+      padding: 10px 20px; }
+      nav ul li:hover {
+        background-color: #7b241c;
+        transition: 300ms; }
+      nav ul li:active {
+        background-color: #7b241c;
+        transition: 150ms; }
+      nav ul li a {
+        color: black; }
+        nav ul li a:visited {
+          color: black; }
+    nav ul li.activo {
+      font-weight: bold;
+      background-color: #7b241c;
+      color: #7B241C; }
+    nav .logo {
+      width: 9vw; }
+  
+  * {
+    box-sizing: border-box; }
+
+    
+
+ 
+ 
+
+   .card:hover {
+      font-size: 2rem;
+      cursor: pointer;
+
+    }
+
+    .card .image:hover {
+      transform: rotate(-5deg);
+    }
+
+
+    
